@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T10:16:17.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.2" etag="9lc7HANIUwxqIzFCknC7" type="github"><diagram id="CcLu8pJx7sYRD5yKEzLu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-28T11:23:48.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QxZcMZYfmUI-ogkG02fK" version="16.6.2" type="github">
+  <diagram id="CcLu8pJx7sYRD5yKEzLu" name="Page-1">
+    <mxGraphModel dx="1712" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-2" target="hRmUiVgqd-fP8M-4zKgl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-2" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;G1&lt;/b&gt;&lt;/font&gt;&lt;br&gt;O Sistema satisfaz os objetivos dos stakeholders para recriação do Jogo do Labirinto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="10" width="205" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-3" target="hRmUiVgqd-fP8M-4zKgl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-3" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.1&lt;/font&gt;&lt;/b&gt;&lt;br&gt;O Sistema satisfaz as necessidades funcionais" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-5" target="hRmUiVgqd-fP8M-4zKgl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-5" target="hRmUiVgqd-fP8M-4zKgl-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="330" />
+              <mxPoint x="490" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-5" target="hRmUiVgqd-fP8M-4zKgl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-5" value="O Sistema satisfaz as necessidades não-funcionais (atributos de qualidade)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-7" target="hRmUiVgqd-fP8M-4zKgl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-7" target="hRmUiVgqd-fP8M-4zKgl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410.5" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-12" target="hRmUiVgqd-fP8M-4zKgl-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-12" target="hRmUiVgqd-fP8M-4zKgl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-12" value="O Sistema permite ao usuário o acesso a plataforma do jogo." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-14" value="O Sistema permite a portabilidade do jogo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-15" value="O Sistema permite o armazenamento do jogo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-19" target="hRmUiVgqd-fP8M-4zKgl-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-19" target="hRmUiVgqd-fP8M-4zKgl-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-19" value="Comandos de ações&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-20" value="Sistema de Ranking ao final do jogo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-21" value="Execução de rápida&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-22" target="hRmUiVgqd-fP8M-4zKgl-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-22" value="ações no jogo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-26" target="hRmUiVgqd-fP8M-4zKgl-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-26" value="&lt;font color=&quot;#000000&quot;&gt;interface do jogo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-27" target="hRmUiVgqd-fP8M-4zKgl-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-27" value="&lt;font color=&quot;#000000&quot;&gt;armazenamento das informações do jogo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-30" target="hRmUiVgqd-fP8M-4zKgl-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-30" value="&lt;font color=&quot;#000000&quot;&gt;Criação dos comandos de ação&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="hRmUiVgqd-fP8M-4zKgl-31" target="hRmUiVgqd-fP8M-4zKgl-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-31" value="&lt;font color=&quot;#000000&quot;&gt;Uso dos comandos de ação&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-35" value="Usuário" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-36" value="API" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-415" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hRmUiVgqd-fP8M-4zKgl-39" value="Mudança de status atual da tela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
