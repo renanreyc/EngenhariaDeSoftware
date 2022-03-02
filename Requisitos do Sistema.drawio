@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T00:39:55.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="k7iCt3YF_ARtcxqZcDZl" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T00:46:31.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="eAGDUEr73cz4nG1n1e9I" version="16.6.4" type="github">
   <diagram id="CcLu8pJx7sYRD5yKEzLu" name="Page-1">
-    <mxGraphModel dx="4118" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4968" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="hRmUiVgqd-fP8M-4zKgl-2" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;G&lt;/b&gt;&lt;/font&gt;&lt;br&gt;O Sistema satisfaz os objetivos dos stakeholders para recriação do Jogo do Labirinto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-97" y="-980" width="205" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SyE-WnLj72KJWZx9Bk1h-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hRmUiVgqd-fP8M-4zKgl-3" target="SyE-WnLj72KJWZx9Bk1h-1" edge="1">
+        <mxCell id="SyE-WnLj72KJWZx9Bk1h-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="hRmUiVgqd-fP8M-4zKgl-3" target="SyE-WnLj72KJWZx9Bk1h-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hRmUiVgqd-fP8M-4zKgl-3" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1&lt;/font&gt;&lt;/b&gt;&lt;br&gt;O Sistema satisfaz as necessidades funcionais" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -137,14 +137,14 @@
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80.00000000000045" y="-395" as="targetPoint" />
+            <mxPoint x="-649.9999999999995" y="-405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-1" value="&lt;span&gt;O sistema permite o jogador explorar o jogo do labirinto&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-670" y="-420" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1400" y="-430" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-2" value="&lt;span&gt;O sistema permite o jogador interagir entre salas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-670" y="-330" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1400" y="-340" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-4" target="SyE-WnLj72KJWZx9Bk1h-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -153,67 +153,67 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-4" value="&lt;span&gt;O sistema permite o jogador se mover para uma sala destrancada&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1065" y="-260" width="130" height="60" as="geometry" />
+          <mxGeometry x="-1795" y="-270" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-5" target="SyE-WnLj72KJWZx9Bk1h-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-5" value="&lt;span&gt;O sistema permite o jogador destrancar uma sala&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-672.5" y="-190" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1402.5" y="-200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-6" value="&lt;span&gt;O sistema permite o jogador trancar uma porta&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-317.5" y="-260" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1047.5" y="-270" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-10" target="SyE-WnLj72KJWZx9Bk1h-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-10" value="&lt;span&gt;O jogador pode escolher entre três portas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1060" y="-170" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1790" y="-180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-11" target="SyE-WnLj72KJWZx9Bk1h-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-11" value="&lt;span&gt;Navega para sala A&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1180" y="10" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1910" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-12" target="SyE-WnLj72KJWZx9Bk1h-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-12" value="&lt;span&gt;Navega para sala B&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1060" y="-50" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1790" y="-60" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-13" target="SyE-WnLj72KJWZx9Bk1h-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-13" value="&lt;span&gt;Navega para sala C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-940" y="10" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1670" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-14" value="&lt;span&gt;Utiliza a chave&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-737.5" y="-50" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1467.5" y="-60" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-15" value="&lt;span&gt;A porta é destrancada&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-602.5" y="-50" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1332.5" y="-60" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-22" value="&lt;span&gt;Seleciona a porta&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1190" y="150" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1920" y="140" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-23" value="&lt;span&gt;Utiliza o comando de navegação&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1060" y="150" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1790" y="140" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-24" value="&lt;span&gt;Insere o jogador na porta navegada&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="150" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1490" y="140" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-25" value="&lt;span&gt;O jogador utiliza uma poção para trancar&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-317.5" y="-190" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1047.5" y="-200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-26" value="Utilizar poção" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-447.5" y="-80" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1177.5" y="-90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-27" value="Selecionar porta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-317.5" y="-80" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1047.5" y="-90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-28" value="Porta trancada" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-187.5" y="-80" width="120" height="50" as="geometry" />
+          <mxGeometry x="-917.5" y="-90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-30" target="SyE-WnLj72KJWZx9Bk1h-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -225,7 +225,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-1015" y="-100" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1745" y="-110" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-36" target="SyE-WnLj72KJWZx9Bk1h-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -233,29 +233,29 @@
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-36" target="SyE-WnLj72KJWZx9Bk1h-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1000" y="120" />
-              <mxPoint x="-1130" y="120" />
+              <mxPoint x="-1730" y="110" />
+              <mxPoint x="-1860" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-36" target="SyE-WnLj72KJWZx9Bk1h-110" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1000" y="120" />
-              <mxPoint x="-855" y="120" />
+              <mxPoint x="-1730" y="110" />
+              <mxPoint x="-1585" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-36" target="SyE-WnLj72KJWZx9Bk1h-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1000" y="120" />
-              <mxPoint x="-700" y="120" />
+              <mxPoint x="-1730" y="110" />
+              <mxPoint x="-1430" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-1015" y="80" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1745" y="70" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-51" target="SyE-WnLj72KJWZx9Bk1h-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -264,7 +264,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-627.5" y="-110" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1357.5" y="-120" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-56" target="SyE-WnLj72KJWZx9Bk1h-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -277,11 +277,11 @@
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-56" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-320" y="-245" as="targetPoint" />
+            <mxPoint x="-1050" y="-255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-625" y="-260" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1355" y="-270" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-65" target="SyE-WnLj72KJWZx9Bk1h-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -296,159 +296,159 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-272.5" y="-120" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1002.5" y="-130" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-72" value="&lt;span&gt;O sistema permite o jogador coletar itens&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="-420" width="120" height="50" as="geometry" />
+          <mxGeometry x="-650" y="-430" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-73" value="&lt;span&gt;O sistema permite o jogador coletar poções&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="-320" width="120" height="50" as="geometry" />
+          <mxGeometry x="-760" y="-330" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-74" value="&lt;span&gt;O sistema permite o jogador coletar chave&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="-320" width="120" height="50" as="geometry" />
+          <mxGeometry x="-620" y="-330" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-76" value="&lt;span&gt;O sistema gerencia as salas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2165" y="29.97" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2895" y="19.97" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-77" value="&lt;span&gt;O sistema permite o jogador coletar machado&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="-320" width="120" height="50" as="geometry" />
+          <mxGeometry x="-480" y="-330" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-78" value="Utiliza o comando de coleta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="0.5" y="-240" width="120" height="50" as="geometry" />
+          <mxGeometry x="-729.5" y="-250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-79" value="Item é inserido no inventário" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="-240" width="120" height="50" as="geometry" />
+          <mxGeometry x="-460" y="-250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-80" value="&lt;span&gt;O sistema permite o jogador tokens&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="535" y="-400" width="120" height="50" as="geometry" />
+          <mxGeometry x="-195" y="-410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-81" value="&lt;span&gt;O sistema permite coletar diamante&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="-330" width="120" height="50" as="geometry" />
+          <mxGeometry x="-260" y="-340" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-82" value="&lt;span&gt;O sistema permite coletar ouro&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-330" width="120" height="50" as="geometry" />
+          <mxGeometry x="-130" y="-340" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-83" value="Move-se para o token" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="415" y="-250" width="120" height="50" as="geometry" />
+          <mxGeometry x="-315" y="-260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-84" value="Coleta o token" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="-110" width="120" height="50" as="geometry" />
+          <mxGeometry x="-40" y="-120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-85" value="Mostra o token contabilizado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="-110" width="120" height="50" as="geometry" />
+          <mxGeometry x="90" y="-120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-86" value="&lt;span&gt;O sistema insere elementos&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2310" y="130" width="120" height="50" as="geometry" />
+          <mxGeometry x="-3040" y="120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-87" value="&lt;span&gt;O sistema insere trolls&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2165" y="130" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2895" y="120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-88" value="&lt;span&gt;Ouro&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2830" y="210" width="120" height="50" as="geometry" />
+          <mxGeometry x="-3560" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-89" value="&lt;span&gt;Diamantes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2700" y="210" width="120" height="50" as="geometry" />
+          <mxGeometry x="-3430" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-90" value="&lt;span&gt;Poções&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2570" y="210" width="120" height="50" as="geometry" />
+          <mxGeometry x="-3300" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-91" value="&lt;span&gt;Chaves&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2440" y="210" width="120" height="50" as="geometry" />
+          <mxGeometry x="-3170" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-92" value="&lt;span&gt;Machados&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2310" y="210" width="120" height="50" as="geometry" />
+          <mxGeometry x="-3040" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-93" value="&lt;span&gt;O sistema gerencia portas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2025" y="130" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2755" y="120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-94" value="&lt;span&gt;Abertas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2025" y="200" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2755" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-95" value="&lt;span&gt;Fechadas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1890" y="200" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2620" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-96" value="Verifica se o inventário tem espaço (5 itens)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-240" width="120" height="50" as="geometry" />
+          <mxGeometry x="-590" y="-250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-97" value="Verifica se existe troll" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="-250" width="120" height="50" as="geometry" />
+          <mxGeometry x="-180" y="-260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-98" value="O sistema mostra que existe troll" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-170" width="120" height="50" as="geometry" />
+          <mxGeometry x="-240" y="-180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-99" value="Não existe troll" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="-170" width="120" height="50" as="geometry" />
+          <mxGeometry x="-110" y="-180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-100" value="Verifica se existe machado no inventário" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="-100" width="120" height="50" as="geometry" />
+          <mxGeometry x="-330" y="-110" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-101" value="Aremessa machado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="30" width="120" height="50" as="geometry" />
+          <mxGeometry x="-410" y="20" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-102" value="Realiza outra ação" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="30" width="120" height="50" as="geometry" />
+          <mxGeometry x="-220" y="20" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-103" value="Verifica se existe machado no inventário" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-100" width="120" height="50" as="geometry" />
+          <mxGeometry x="-200" y="-110" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-104" value="Existe machado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="-30" width="120" height="50" as="geometry" />
+          <mxGeometry x="-370" y="-40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-105" value="Não existe machado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-30" width="120" height="50" as="geometry" />
+          <mxGeometry x="-240" y="-40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-107" target="SyE-WnLj72KJWZx9Bk1h-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-107" value="Machado quebra" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="100" width="120" height="50" as="geometry" />
+          <mxGeometry x="-460" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-110" value="&lt;span&gt;Movimenta os trolls aleatoriamente&amp;nbsp; (Salas adjacentes)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-915" y="150" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1645" y="140" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-113" value="&lt;span&gt;Verifica se existe machado na sala&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-990" y="230" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1720" y="220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-114" value="&lt;span&gt;Troll pega machado&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-860" y="230" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1590" y="220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-115" value="&lt;span&gt;O jogador encontra um troll na sala&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1610" y="-260" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2340" y="-270" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-119" value="&lt;span&gt;A sala possui um machado&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1690" y="-170.03" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2420" y="-180.03" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-120" value="&lt;span&gt;Troll aremessa machado&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1770" y="-100.03" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2500" y="-110.03" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-121" value="&lt;span&gt;Verifica se o jogador tem poção&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1640" y="-100.03" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2370" y="-110.03" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-122" value="&lt;span&gt;O jogador possui poção&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1690" y="-20.03" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2420" y="-30.03" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-123" value="&lt;span&gt;O jogador não possui poção&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1560" y="-20.03" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2290" y="-30.03" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=1.032;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-124" target="SyE-WnLj72KJWZx9Bk1h-126" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1665" y="119.97" />
-              <mxPoint x="-1354" y="119.97" />
+              <mxPoint x="-2395" y="109.97" />
+              <mxPoint x="-2084" y="109.97" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-124" value="&lt;span&gt;Perde a poção&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1725" y="39.97" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2455" y="29.97" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SyE-WnLj72KJWZx9Bk1h-125" target="SyE-WnLj72KJWZx9Bk1h-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-125" value="&lt;span&gt;Perde o ouro&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1550" y="39.97" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2280" y="29.97" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-126" value="&lt;span&gt;Realiza ação&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-1410" y="39.97" width="120" height="50" as="geometry" />
+          <mxGeometry x="-2140" y="29.97" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SyE-WnLj72KJWZx9Bk1h-129" value="&lt;span&gt;O sistema gerencia as telas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="-550" width="120" height="50" as="geometry" />
@@ -522,10 +522,10 @@
             <mxPoint x="1045" y="-660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Wqa6SIRsuj5Y4Wulnrp-26" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G2.3.1&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Instalação - o carregamento e processamento do sistema deve durar menos que 1s&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9Wqa6SIRsuj5Y4Wulnrp-26" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G2.3.1&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Instalação - o sistema é simples e eficiente em sua instalação e/ou desinstalação no ambiente Windows&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="-610" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9Wqa6SIRsuj5Y4Wulnrp-27" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G2.3.2&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Substituibilidade - a quantidade de recursos de processamento deve ser mínima.&amp;nbsp;Permitindo ser executável em qualquer máquina.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9Wqa6SIRsuj5Y4Wulnrp-27" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G2.3.2&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Substituibilidade - o sistema pode ser substituído por outro software especificado para a mesma finalidade no ambiente windows&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="-610" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
