@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T23:50:49.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="41I2BqX42VCrP0nFA5oY" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T23:52:36.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kSZGzNBkqwTQIDqOhyrb" version="16.6.5" type="github">
   <diagram id="CcLu8pJx7sYRD5yKEzLu" name="Page-1">
     <mxGraphModel dx="6114" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1104,9 +1104,6 @@
         </mxCell>
         <mxCell id="mdIFGXUubkvyYsVZqN8Q-15" value="&lt;span&gt;Poções&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2170" y="330.03" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mdIFGXUubkvyYsVZqN8Q-16" value="&lt;span&gt;Chaves&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2300" y="330.03" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mdIFGXUubkvyYsVZqN8Q-17" value="&lt;span&gt;Machados&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2430" y="330.03" width="120" height="50" as="geometry" />
