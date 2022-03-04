@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T14:00:50.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="KyX7Tnhza8EHuei3aZOO" version="16.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:45:35.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="AiWZonJaNJrTKqPPqGmD" version="16.6.5" type="github" pages="4">
   <diagram id="CcLu8pJx7sYRD5yKEzLu" name="Modelo de Objetivos">
-    <mxGraphModel dx="6415" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6574" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1021,11 +1021,21 @@
         <mxCell id="9Wqa6SIRsuj5Y4Wulnrp-234" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-3891.56" y="-120" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="_nh_Ve-XnMs64VKTgwbw-3" target="StbTAPI_V6XapThFzzIi-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9Wqa6SIRsuj5Y4Wulnrp-28" target="StbTAPI_V6XapThFzzIi-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="-470" />
+              <mxPoint x="2297" y="-470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="_nh_Ve-XnMs64VKTgwbw-3" target="StbTAPI_V6XapThFzzIi-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9Wqa6SIRsuj5Y4Wulnrp-28" target="StbTAPI_V6XapThFzzIi-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="-470" />
+              <mxPoint x="2895" y="-470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_nh_Ve-XnMs64VKTgwbw-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="296" y="-368" width="30" height="30" as="geometry" />
@@ -1116,10 +1126,11 @@
         <mxCell id="mdIFGXUubkvyYsVZqN8Q-40" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.3&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;br&gt;O sistema deve gerenciar a quantidade de chaves no jogo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="-308" width="171" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="usXteK6soyxGasQqWn80-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="mdIFGXUubkvyYsVZqN8Q-41" target="_nh_Ve-XnMs64VKTgwbw-3" edge="1">
+        <mxCell id="usXteK6soyxGasQqWn80-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="mdIFGXUubkvyYsVZqN8Q-41" target="9Wqa6SIRsuj5Y4Wulnrp-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1491" y="-353" />
+              <mxPoint x="-460" y="-353" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2192,12 +2203,13 @@
         <mxCell id="gBs5PDvuGvZ7CW1e060W-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.696;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="gBs5PDvuGvZ7CW1e060W-135" target="usXteK6soyxGasQqWn80-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gBs5PDvuGvZ7CW1e060W-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;exitX=0.69;exitY=0.087;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="gBs5PDvuGvZ7CW1e060W-135" target="usXteK6soyxGasQqWn80-38" edge="1">
+        <mxCell id="gBs5PDvuGvZ7CW1e060W-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.821;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" target="usXteK6soyxGasQqWn80-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2080" y="89" />
-              <mxPoint x="2079" y="89" />
+              <mxPoint x="2090" y="135" />
             </Array>
+            <mxPoint x="2089.01" y="135.00595999999996" as="sourcePoint" />
+            <mxPoint x="2090" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gBs5PDvuGvZ7CW1e060W-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.417;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gBs5PDvuGvZ7CW1e060W-135" target="usXteK6soyxGasQqWn80-49" edge="1">
@@ -2272,129 +2284,129 @@
         <mxCell id="StbTAPI_V6XapThFzzIi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-1" target="StbTAPI_V6XapThFzzIi-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-1" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.6&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;br&gt;O sistema deve gerenciar o início do jogo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2217" y="-308" width="160" height="50" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-1" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.3&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;br&gt;O sistema deve gerenciar o início do jogo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2217" y="-442.18" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-2" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.7&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;br&gt;O sistema deve gerenciar o fim do jogo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2815" y="-308" width="160" height="50" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-2" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.4&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;br&gt;O sistema deve gerenciar o fim do jogo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2815" y="-442.18" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-4" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.6.1&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Iniciado jogo pelo usuário&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2097" y="-161.24" width="185" height="60" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-4" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.3.1&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Iniciado jogo pelo usuário&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2097" y="-295.42" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-5" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.6.2.1&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;compilado e executado códigos&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2212" y="-7.999999999999993" width="185" height="60" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-5" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.3.2.1&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;compilado e executado o jogo&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2212" y="-142.18" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-6" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.6.2.2&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Sorteado posição inicial do jogador no labirinto&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2397" y="-6.120000000000001" width="185" height="60" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-6" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.3.2.2&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Sorteado posição inicial do jogador no labirinto&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2397" y="-140.3" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-7" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.6.2&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;Sistema deve compilar e executar códigos necessários para início do jogo&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2312" y="-162.89000000000001" width="170" height="63.29" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-7" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.3.2&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;Sistema deve compilar e executar códigos necessários para início do jogo&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2312" y="-297.07000000000005" width="170" height="63.29" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-9" target="StbTAPI_V6XapThFzzIi-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2297" y="-178" />
-              <mxPoint x="2236" y="-178" />
-              <mxPoint x="2236" y="-161" />
+              <mxPoint x="2297" y="-312.18" />
+              <mxPoint x="2236" y="-312.18" />
+              <mxPoint x="2236" y="-295.18" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-9" target="StbTAPI_V6XapThFzzIi-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2297" y="-178" />
-              <mxPoint x="2355" y="-178" />
-              <mxPoint x="2355" y="-163" />
+              <mxPoint x="2297" y="-312.18" />
+              <mxPoint x="2355" y="-312.18" />
+              <mxPoint x="2355" y="-297.18" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2282" y="-224.88" width="30" height="30" as="geometry" />
+          <mxGeometry x="2282" y="-359.06" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" target="StbTAPI_V6XapThFzzIi-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2397.0344827586214" y="-99.6" as="sourcePoint" />
+            <mxPoint x="2397.0344827586214" y="-233.78" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-15" target="StbTAPI_V6XapThFzzIi-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2397" y="-18" />
-              <mxPoint x="2304" y="-18" />
+              <mxPoint x="2397" y="-152.18" />
+              <mxPoint x="2304" y="-152.18" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-15" target="StbTAPI_V6XapThFzzIi-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2397" y="-18" />
-              <mxPoint x="2490" y="-18" />
+              <mxPoint x="2397" y="-152.18" />
+              <mxPoint x="2490" y="-152.18" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2382" y="-66.47999999999999" width="30" height="30" as="geometry" />
+          <mxGeometry x="2382" y="-200.66" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-18" target="StbTAPI_V6XapThFzzIi-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-18" value="Usuário" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2068" y="-239.53000000000011" width="150" height="46.82" as="geometry" />
+          <mxGeometry x="2068" y="-373.71000000000015" width="150" height="46.82" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" target="StbTAPI_V6XapThFzzIi-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2895" y="-258" as="sourcePoint" />
+            <mxPoint x="2895" y="-392.18" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-35" target="StbTAPI_V6XapThFzzIi-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2895" y="-160" />
-              <mxPoint x="2895" y="-160" />
+              <mxPoint x="2895" y="-294.18" />
+              <mxPoint x="2895" y="-294.18" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2880" y="-224.88" width="30" height="30" as="geometry" />
+          <mxGeometry x="2880" y="-359.06" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-36" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.7.1&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;A tentativa de saída do labirinto é finalizado&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2810" y="-158.17000000000002" width="170" height="63.29" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-36" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.4.1&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;A tentativa de saída do labirinto é finalizado&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="-292.35" width="170" height="63.29" as="geometry" />
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-38" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.7.1.2&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Encerrado partida pelo jogador antes de conquistar o labirinto&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2802.5" y="-3.44" width="185" height="73.44" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-38" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.4.1.2&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Encerrado partida pelo jogador antes de conquistar o labirinto&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2802.5" y="-137.62" width="185" height="73.44" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-39" target="StbTAPI_V6XapThFzzIi-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3097" y="-20" />
-              <mxPoint x="2895" y="-20" />
+              <mxPoint x="3097" y="-154.18" />
+              <mxPoint x="2895" y="-154.18" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-39" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.7.1.3&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Jogador é atingido por machado sem poção e peças de ouro&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2982" y="-3.76" width="168" height="76.88" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-39" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.4.1.3&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Jogador é atingido por machado sem poção e peças de ouro&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2982" y="-137.94" width="168" height="76.88" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="StbTAPI_V6XapThFzzIi-41" source="StbTAPI_V6XapThFzzIi-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2895.0344827586214" y="-79.81999999999991" as="sourcePoint" />
+            <mxPoint x="2895.0344827586214" y="-213.99999999999991" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-41" target="StbTAPI_V6XapThFzzIi-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2880" y="-62.699999999999996" width="30" height="30" as="geometry" />
+          <mxGeometry x="2880" y="-196.88" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-42" target="StbTAPI_V6XapThFzzIi-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2710" y="-20" />
-              <mxPoint x="2895" y="-20" />
+              <mxPoint x="2710" y="-154.18" />
+              <mxPoint x="2895" y="-154.18" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="StbTAPI_V6XapThFzzIi-42" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.2.7.1.1&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Coletado todas as peças de ouro e diamantes disponíveis e atingido uma sala que possui a porta de saída&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2600" y="-3.76" width="202" height="73.76" as="geometry" />
+        <mxCell id="StbTAPI_V6XapThFzzIi-42" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;G1.4.1.1&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Coletado todas as peças de ouro e diamantes disponíveis e atingido uma sala que possui a porta de saída&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="-137.94" width="202" height="73.76" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-56" target="StbTAPI_V6XapThFzzIi-42">
           <mxGeometry relative="1" as="geometry" />
@@ -2403,34 +2415,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-56" value="Usuário" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2716" y="146.8199999999999" width="150" height="46.82" as="geometry" />
+          <mxGeometry x="2716" y="12.639999999999901" width="150" height="46.82" as="geometry" />
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-59" target="StbTAPI_V6XapThFzzIi-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2788" y="250" />
-              <mxPoint x="2305" y="250" />
+              <mxPoint x="2788" y="115.82" />
+              <mxPoint x="2305" y="115.82" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-59" target="StbTAPI_V6XapThFzzIi-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2788" y="250" />
-              <mxPoint x="2490" y="250" />
+              <mxPoint x="2788" y="115.82" />
+              <mxPoint x="2490" y="115.82" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="StbTAPI_V6XapThFzzIi-59" target="StbTAPI_V6XapThFzzIi-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2788" y="250" />
-              <mxPoint x="3066" y="250" />
+              <mxPoint x="2788" y="115.82" />
+              <mxPoint x="3066" y="115.82" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="StbTAPI_V6XapThFzzIi-59" value="Sistema" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="2713" y="283.11999999999983" width="150" height="46.82" as="geometry" />
+          <mxGeometry x="2713" y="148.93999999999983" width="150" height="46.82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3202,7 +3214,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bcogYpwItxbSpqNbhXw2" name="Iterações">
-    <mxGraphModel dx="6014" dy="2130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6025" dy="2130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DqxnWCefdb3IQ5dztZhZ-0" />
         <mxCell id="DqxnWCefdb3IQ5dztZhZ-1" parent="DqxnWCefdb3IQ5dztZhZ-0" />
